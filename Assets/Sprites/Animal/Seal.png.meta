@@ -1,0 +1,356 @@
+fileFormatVersion: 2
+guid: f6ddd3967c5b1344f88492f7741bc01a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8741545005956383620
+    second: Seal_0
+  - first:
+      213: 208659695243905864
+    second: Seal_1
+  - first:
+      213: -9139208983533348765
+    second: Seal_2
+  - first:
+      213: 7879335796675210080
+    second: Seal_3
+  - first:
+      213: -667186695060124306
+    second: Seal_4
+  - first:
+      213: 2741358085500028703
+    second: Seal_5
+  - first:
+      213: -4180977762298916867
+    second: Seal_6
+  - first:
+      213: -2888635965260772819
+    second: Seal_7
+  - first:
+      213: -6970396389184887430
+    second: Seal_8
+  - first:
+      213: -9020225829533029024
+    second: Seal_9
+  - first:
+      213: 6153287987022902021
+    second: Seal_10
+  - first:
+      213: 7313944107173905128
+    second: Seal_11
+  - first:
+      213: -3412761957424400172
+    second: Seal_12
+  - first:
+      213: 2716884723320836954
+    second: Seal_13
+  - first:
+      213: 3770894796735604108
+    second: Seal_14
+  - first:
+      213: 5063292518547245760
+    second: Seal_15
+  - first:
+      213: -3729248105312596933
+    second: Seal_16
+  - first:
+      213: 243165431734328210
+    second: Seal_17
+  - first:
+      213: 5985468174128862895
+    second: Seal_18
+  - first:
+      213: -1906460907518066630
+    second: Seal_19
+  - first:
+      213: -1228696311874162535
+    second: Seal_20
+  - first:
+      213: 9130221604840539682
+    second: Seal_21
+  - first:
+      213: -8930025650702664230
+    second: Seal_22
+  - first:
+      213: 7487203065403311582
+    second: Seal_23
+  - first:
+      213: -1816491858538736592
+    second: Seal_24
+  - first:
+      213: -6456284041406400090
+    second: Seal_25
+  - first:
+      213: -139344923217440552
+    second: Seal_26
+  - first:
+      213: 1716023058191543005
+    second: Seal_27
+  - first:
+      213: 4409551878212764395
+    second: Seal_28
+  - first:
+      213: 7229455734495967628
+    second: Seal_29
+  - first:
+      213: 6912994557587763487
+    second: Seal_30
+  - first:
+      213: -376084277876660726
+    second: Seal_31
+  - first:
+      213: 6349122695632063837
+    second: Seal_32
+  - first:
+      213: -1658032702049428173
+    second: Seal_33
+  - first:
+      213: 7331655263963514241
+    second: Seal_34
+  - first:
+      213: 7548984337311295978
+    second: Seal_35
+  - first:
+      213: 2460324838380197246
+    second: Seal_36
+  - first:
+      213: -3045485167561145707
+    second: Seal_37
+  - first:
+      213: -6494934457421899745
+    second: Seal_38
+  - first:
+      213: 1238502069929305517
+    second: Seal_39
+  - first:
+      213: -8983895143850632519
+    second: Seal_40
+  - first:
+      213: -5307996695949241115
+    second: Seal_41
+  - first:
+      213: 545828622689229647
+    second: Seal_42
+  - first:
+      213: 4644485201329283382
+    second: Seal_43
+  - first:
+      213: -2406404355824122451
+    second: Seal_44
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Seal_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 192
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c31ebb12bcfa680800000000000000
+      internalID: -8741545005956383620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seal_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 192
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b44f523ee45e200800000000000000
+      internalID: 208659695243905864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seal_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 192
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3689f60e9d10b2180800000000000000
+      internalID: -9139208983533348765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seal_3
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 192
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b68da1926095d60800000000000000
+      internalID: 7879335796675210080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seal_4
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 192
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d031a5c3dadb6f0800000000000000
+      internalID: -667186695060124306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

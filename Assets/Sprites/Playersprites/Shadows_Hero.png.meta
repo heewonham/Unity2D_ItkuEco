@@ -1,0 +1,620 @@
+fileFormatVersion: 2
+guid: 445e9f6ef4d6c0a449480f6c8b5de486
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2153221518974115354
+    second: Shadows_Hero_0
+  - first:
+      213: 6833736494239902554
+    second: Shadows_Hero_1
+  - first:
+      213: 7367488011136576714
+    second: Shadows_Hero_2
+  - first:
+      213: -507602429360987882
+    second: Shadows_Hero_3
+  - first:
+      213: -2945180195717942671
+    second: Shadows_Hero_4
+  - first:
+      213: 3663961431592571936
+    second: Shadows_Hero_5
+  - first:
+      213: -6465033533761884068
+    second: Shadows_Hero_6
+  - first:
+      213: -9063281501040984055
+    second: Shadows_Hero_7
+  - first:
+      213: 4092414190378743750
+    second: Shadows_Hero_8
+  - first:
+      213: 7794350407207637191
+    second: Shadows_Hero_9
+  - first:
+      213: -5429382772833648484
+    second: Shadows_Hero_10
+  - first:
+      213: -3798110919699022357
+    second: Shadows_Hero_11
+  - first:
+      213: -3572234802672397601
+    second: Shadows_Hero_12
+  - first:
+      213: 3825228177857896711
+    second: Shadows_Hero_13
+  - first:
+      213: -8560706891498551350
+    second: Shadows_Hero_14
+  - first:
+      213: -5035588836414159548
+    second: Shadows_Hero_15
+  - first:
+      213: -6845960964672126025
+    second: Shadows_Hero_16
+  - first:
+      213: -6869104885838722877
+    second: Shadows_Hero_17
+  - first:
+      213: 1817903139861660686
+    second: Shadows_Hero_18
+  - first:
+      213: -2541223872398907579
+    second: Shadows_Hero_19
+  - first:
+      213: -3041897241193224978
+    second: Shadows_Hero_20
+  - first:
+      213: 7247095070874488911
+    second: Shadows_Hero_21
+  - first:
+      213: 2039067459630217757
+    second: Shadows_Hero_22
+  - first:
+      213: 8791782241067484777
+    second: Shadows_Hero_23
+  - first:
+      213: 2168663288564341176
+    second: Shadows_Hero_24
+  - first:
+      213: 5460560197115129103
+    second: Shadows_Hero_25
+  - first:
+      213: 7143094351559935868
+    second: Shadows_Hero_26
+  - first:
+      213: -7775191776742140947
+    second: Shadows_Hero_27
+  - first:
+      213: 4934128075036405032
+    second: Shadows_Hero_28
+  - first:
+      213: 4217955909639994590
+    second: Shadows_Hero_29
+  - first:
+      213: 8655711655142049963
+    second: Shadows_Hero_30
+  - first:
+      213: -5938149699862665766
+    second: Shadows_Hero_31
+  - first:
+      213: 231051824314409350
+    second: Shadows_Hero_32
+  - first:
+      213: -3359074386571608099
+    second: Shadows_Hero_33
+  - first:
+      213: 153406239993891106
+    second: Shadows_Hero_34
+  - first:
+      213: 2564728646402634223
+    second: Shadows_Hero_35
+  - first:
+      213: 773516568420171461
+    second: Shadows_Hero_36
+  - first:
+      213: -8248384718532966555
+    second: Shadows_Hero_37
+  - first:
+      213: 2435608247460808844
+    second: Shadows_Hero_38
+  - first:
+      213: -3779965352354715014
+    second: Shadows_Hero_39
+  - first:
+      213: -7449661161976817863
+    second: Shadows_Hero_40
+  - first:
+      213: -5553796100048745410
+    second: Shadows_Hero_41
+  - first:
+      213: 5033534813922569486
+    second: Shadows_Hero_42
+  - first:
+      213: -1953537241393062615
+    second: Shadows_Hero_43
+  - first:
+      213: -7878165898620433508
+    second: Shadows_Hero_44
+  - first:
+      213: -54880509244960865
+    second: Shadows_Hero_45
+  - first:
+      213: -6979930287049153597
+    second: Shadows_Hero_46
+  - first:
+      213: 8819503513461890807
+    second: Shadows_Hero_47
+  - first:
+      213: -7524520974744617722
+    second: Shadows_Hero_48
+  - first:
+      213: 5253391169850854079
+    second: Shadows_Hero_49
+  - first:
+      213: 3046763965530787886
+    second: Shadows_Hero_50
+  - first:
+      213: 1262641800152338351
+    second: Shadows_Hero_51
+  - first:
+      213: 1931086056175091069
+    second: Shadows_Hero_52
+  - first:
+      213: -4803433304440732835
+    second: Shadows_Hero_53
+  - first:
+      213: -8361489499465270968
+    second: Shadows_Hero_54
+  - first:
+      213: 4298355641727202286
+    second: Shadows_Hero_55
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Shadows_Hero_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e122decf683e12e0800000000000000
+      internalID: -2153221518974115354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadows_Hero_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 384
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5beac3822f46de50800000000000000
+      internalID: 6833736494239902554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadows_Hero_2
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 384
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: accaebebf439e3660800000000000000
+      internalID: 7367488011136576714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadows_Hero_3
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 384
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61120d6a742a4f8f0800000000000000
+      internalID: -507602429360987882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadows_Hero_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17277ba573e9027d0800000000000000
+      internalID: -2945180195717942671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadows_Hero_5
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 256
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0249ec0728109d230800000000000000
+      internalID: 3663961431592571936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadows_Hero_6
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50722711469746a0800000000000000
+      internalID: -6465033533761884068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadows_Hero_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 256
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900451f7e71c83280800000000000000
+      internalID: -9063281501040984055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadows_Hero_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7fa4b060d2bc830800000000000000
+      internalID: 4092414190378743750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadows_Hero_9
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0588c26681b2c60800000000000000
+      internalID: 7794350407207637191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadows_Hero_10
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9000ab5225f6a4b0800000000000000
+      internalID: -5429382772833648484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadows_Hero_11
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 128
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bedbec5ed366a4bc0800000000000000
+      internalID: -3798110919699022357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadows_Hero_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd29c6c9f5fdc6ec0800000000000000
+      internalID: -3572234802672397601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadows_Hero_13
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701e806c2c0f51530800000000000000
+      internalID: 3825228177857896711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadows_Hero_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac78df15072423980800000000000000
+      internalID: -8560706891498551350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadows_Hero_15
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 112
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4458c9a02aefd1ab0800000000000000
+      internalID: -5035588836414159548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
