@@ -1,4 +1,4 @@
-# Unity2D_ItkuEco
+# 🌏 Unity2D_ItkuEco
 </br>
 안녕하세요!!👩🌈</br></br>
 Unity2D로 개발한 동물키우기 게임입니다.(모바일 & PC)🔥</br>
